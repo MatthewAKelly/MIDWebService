@@ -1,7 +1,7 @@
 # MIDWebService
 MIDWebService
 
-MID Web Service. Written by Matthew Kelly and David Reitter. Uses SQL Alchemy Library for Python.
+MID Web Service. Written by Matthew Kelly and David Reitter. Uses SQL Alchemy Library for Python. Luke Maurits' feedformatter.py is also used and that code is included in this repository for convenience. Luke Maurits can be found here: https://github.com/lmaurits
 
 feed.py: Interprets URL requests from the server, interfaces with the SQL database, and passes HTML back.
 
